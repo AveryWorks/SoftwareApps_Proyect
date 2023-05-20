@@ -1,0 +1,46 @@
+C:\Users\maged\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\maged\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\maged\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\maged\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\maged\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\maged\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\maged\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\maged\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\maged\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\maged\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\maged\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FRAME_CLIENTE.resources
+C:\Users\maged\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FRAME_MENU.resources
+C:\Users\maged\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FRAME_EMPLEADO.resources
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.FRAME_CLIENTE.resources
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.FRAME_EMPLEADO.resources
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.FRAME_FACTURACION.resources
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.FRAME_MENU.resources
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.FRAME_PRODUCTO.resources
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Ulacit\Downloads\Proyecto diseno\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.FRAME_CLIENTE.resources
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.FRAME_EMPLEADO.resources
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.FRAME_FACTURACION.resources
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.FRAME_MENU.resources
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.FRAME_PRODUCTO.resources
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\bin\Debug\Aspose.PDF.dll
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\bin\Debug\Aspose.PDF.xml
+C:\Users\maged\Desktop\Proyecto diseno\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
